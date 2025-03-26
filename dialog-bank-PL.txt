@@ -1,0 +1,55 @@
+Agent: Dzień dobry, Anna Kowalska z Banku Prosperity, w czym mogę pomóc?
+
+Klient: Dzień dobry, chciałbym się dowiedzieć o kredyt gotówkowy.
+
+Agent: Oczywiście, chętnie pomogę. Informuję, że nasza rozmowa jest nagrywana dla celów jakościowych. Czy wyraża Pan zgodę?
+
+Klient: No tak, zgadzam się.
+
+Agent: Dziękuję. Żeby móc sprawdzić dostępne dla Pana oferty, muszę najpierw potwierdzić Pana tożsamość. Poproszę o imię, nazwisko i PESEL.
+
+Klient: Piotr Nowak, PESEL [numer].
+
+Agent: Dziękuję, poproszę jeszcze o kwotę ostatnich zakupów kartą debetową.
+
+Klient: Wczoraj w Biedronce, chyba... tak, 127 złotych 35 groszy.
+
+Agent: Świetnie, dziękuję za weryfikację. Proszę mi powiedzieć, jakiej kwoty kredytu Pan potrzebuje i na jaki cel?
+
+Klient: Chcę zrobić remont łazienki. Myślałem o jakichś 25 tysiącach.
+
+Agent: Rozumiem. Moment, sprawdzę Pana zdolność kredytową... [krótka pauza] Mam dobre wieści! Jest Pan z nami już 5 lat i widzę bardzo dobrą historię spłat. Mogę zaproponować kredyt ze świetnym oprocentowaniem - RRSO 12,5%. Przy 25 tysiącach na 4 lata wychodzi rata około 621 złotych miesięcznie. Jak się Panu wydaje taka propozycja?
+
+Klient: Hmm, brzmi całkiem nieźle. A co z dokumentami?
+
+Agent: W Pana przypadku będzie naprawdę prosto - nie potrzebujemy żadnych dodatkowych dokumentów, bo widzimy regularne wpływy wynagrodzenia na konto. A wie Pan co? Mamy teraz świetną promocję - jeśli zdecyduje się Pan na ubezpieczenie kredytu, dostanie Pan obniżkę oprocentowania o 1%. To może sporo zmniejszyć ratę.
+
+Klient: O, to faktycznie niezłe. Dobra, wezmę z tym ubezpieczeniem.
+
+Agent: Świetny wybór. Zanim przejdziemy dalej, muszę Panu odczytać kilka formalnych zgód - to zajmie dosłownie chwilę. Mogę?
+
+Klient: No dobrze...
+
+Agent: To będą standardowe zgody związane z ochroną danych osobowych i propozycjami marketingowymi. [czyta szybko, ale wyraźnie] Czy wyraża Pan zgodę na przetwarzanie danych osobowych w związku z procesem kredytowym?
+
+Klient: Tak, wyrażam.
+
+Agent: Dziękuję, i druga zgoda - czy możemy kontaktować się z Panem w sprawie innych produktów i usług bankowych?
+
+Klient: No niech będzie, zgadzam się.
+
+Agent: Super, dziękuję. To teraz przygotuję wniosek i wyślę go na Pański mail - mamy tutaj adres piotr.nowak@email.com, zgadza się?
+
+Klient: Tak, to mój adres.
+
+Agent: Świetnie. Za moment dostanie Pan maila z linkiem do wniosku. Wystarczy, że zaloguje się Pan do bankowości internetowej i tam podpisze dokumenty. Nasza decyzja kredytowa powinna być gotowa maksymalnie w ciągu 2 godzin, ale zazwyczaj idzie to szybciej.
+
+Klient: OK, rozumiem. Dziękuję za pomoc.
+
+Agent: Ja również dziękuję. Czy ma Pan jeszcze jakieś pytania?
+
+Klient: Nie, wszystko jasne.
+
+Agent: W takim razie życzę miłego dnia! Gdyby pojawiły się jakieś wątpliwości, proszę śmiało dzwonić na infolinię. Do usłyszenia!
+
+Klient: Do widzenia.

@@ -1,0 +1,55 @@
+Agent: Good morning, Sarah Brown from Prosperity Bank speaking. How may I help you?
+
+Customer: Hello, I'd like to inquire about a personal loan.
+
+Agent: Of course, I'll be happy to help. I should mention that this call is being recorded for quality purposes. Do I have your consent?
+
+Customer: Yes, that's fine.
+
+Agent: Thank you. To check what offers are available to you, I'll need to verify your identity first. Could you please provide your full name and Social Security number?
+
+Customer: John Smith, SSN [number].
+
+Agent: Thank you, and could you confirm the amount of your last debit card purchase?
+
+Customer: Yesterday at the supermarket, I think... yes, $127.35.
+
+Agent: Perfect, thank you for verifying. Could you tell me how much you're looking to borrow and what it's for?
+
+Customer: I want to renovate my bathroom. I was thinking about $25,000.
+
+Agent: I see. Let me check your credit score... [brief pause] I have good news! You've been with us for 5 years and have an excellent payment history. I can offer you a loan with a great APR of 12.5%. For $25,000 over 4 years, your monthly payment would be around $621. How does that sound?
+
+Customer: Hmm, sounds pretty good. What about the paperwork?
+
+Agent: In your case, it's really straightforward - we don't need any additional documents since we can see your regular salary deposits. Oh, and here's something great - we currently have a promotion where if you take out payment protection insurance, you'll get a 1% reduction in your interest rate. That could significantly lower your monthly payments.
+
+Customer: Oh, that's actually quite good. Okay, I'll take it with the insurance.
+
+Agent: Excellent choice. Before we proceed, I need to read you some formal consents - it'll only take a moment. May I?
+
+Customer: Alright...
+
+Agent: These are standard consents regarding data protection and marketing offers. [reads quickly but clearly] Do you consent to the processing of your personal data for the loan application?
+
+Customer: Yes, I do.
+
+Agent: Thank you, and secondly - may we contact you about other banking products and services?
+
+Customer: Yeah, okay, I agree.
+
+Agent: Great, thank you. I'll now prepare the application and send it to your email - we have john.smith@email.com, is that correct?
+
+Customer: Yes, that's my address.
+
+Agent: Perfect. You'll receive an email with a link to the application shortly. Just log into your online banking and sign the documents there. Our lending decision should be ready within 2 hours max, but it's usually quicker.
+
+Customer: OK, I understand. Thanks for your help.
+
+Agent: Thank you as well. Do you have any other questions?
+
+Customer: No, everything's clear.
+
+Agent: In that case, have a great day! If you have any concerns, don't hesitate to call our helpline. Goodbye!
+
+Customer: Goodbye.

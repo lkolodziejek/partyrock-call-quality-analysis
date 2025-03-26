@@ -1,0 +1,43 @@
+Agent: Dzień dobry, tu Magdalena z działu obsługi klienta ElektroMarket, w czym mogę pomóc?
+
+Klient: Dzień dobry, dzwonię w sprawie telefonu, który kupiłem u państwa dwa tygodnie temu. Przestał mi działać ekran.
+
+Agent: Bardzo mi przykro to słyszeć. Czy może mi Pan podać numer zamówienia? Znajdzie go Pan w mailu potwierdzającym zakup.
+
+Klient: Tak, moment... To jest EM2025/468734.
+
+Agent: Dziękuję. Widzę zamówienie na telefon SuperTelefon GX2024. Czy mógłby Pan opisać, co dokładnie dzieje się z ekranem?
+
+Klient: No więc wczoraj wieczorem ekran zaczął pokazywać dziwne paski, a dziś rano całkowicie się wyłączył. Telefon chodzi, bo słyszę dźwięki, ale nic nie widać.
+
+Agent: Rozumiem, bardzo mi przykro z powodu tej sytuacji. Oczywiście przyjmiemy reklamację - ma Pan dwa warianty do wyboru. Możemy bezpłatnie odebrać telefon kurierem i wysłać go do serwisu, lub może Pan skorzystać z ekspresowej wymiany na nowy egzemplarz, ale wtedy pobierzemy kaucję, która zostanie zwrócona po otrzymaniu wadliwego telefonu.
+
+Klient: A jak długo będzie trwała naprawa w serwisie?
+
+Agent: Standardowy czas rozpatrzenia reklamacji to 14 dni, ale zazwyczaj trwa to krócej, około 7-10 dni. Przy wymianie ekspresowej nowy telefon otrzyma Pan już następnego dnia roboczego.
+
+Klient: Hmm, potrzebuję pilnie telefon do pracy. Ile wynosi ta kaucja przy wymianie?
+
+Agent: Kaucja to równowartość telefonu - 1799 zł. Zostanie zablokowana na Pana karcie i odblokowana od razu po tym, jak kurier odbierze uszkodzony telefon. Maksymalnie po 2-3 dniach roboczych środki wrócą na konto.
+
+Klient: No dobrze, zdecyduję się na wymianę ekspresową.
+
+Agent: Świetnie, w takim razie przygotuje wszystko. Sprawdzę tylko, czy adres dostawy pozostaje ten sam co przy zamówieniu - [odczyta adres]?
+
+Klient: Tak, ten sam.
+
+Agent: Dobrze. Wyślę Panu teraz maila z potwierdzeniem przyjęcia reklamacji i linkiem do płatności kaucji. Jak tylko kaucja zostanie zaksięgowana, od razu przekażę telefon do wysyłki. Kurier przyjedzie z nowym telefonem i przy tej samej wizycie odbierze uszkodzony sprzęt. Bardzo proszę spakować telefon najlepiej w oryginalne pudełko, jeśli Pan je posiada.
+
+Klient: Rozumiem, a co z danymi w telefonie?
+
+Agent: Jeśli ma Pan włączoną kopię zapasową w chmurze, wszystkie dane powinny się automatycznie przywrócić na nowym telefonie po zalogowaniu. Jeśli nie, niestety przy niedziałającym ekranie będzie trudno je odzyskać.
+
+Klient: OK, mam kopię w chmurze, więc powinno być dobrze.
+
+Agent: Świetnie. Czy ma Pan jeszcze jakieś pytania odnośnie procesu wymiany?
+
+Klient: Nie, wydaje mi się, że wszystko jasne.
+
+Agent: W takim razie proszę sprawdzić skrzynkę mailową - powinien już być tam mail ode mnie. Gdyby pojawiły się jakieś wątpliwości, proszę śmiało dzwonić. Życzę miłego dnia!
+
+Klient: Dziękuję, do widzenia.

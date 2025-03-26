@@ -1,0 +1,89 @@
+As a customer service quality expert, please conduct a detailed analysis of the provided conversation transcript, evaluating the following elements:
+
+SERVICE STANDARDS (40 points)
+1a. Call Opening (0-10 pts)
+• Greeting
+• Self-introduction
+• Tone and professionalism
+
+1b. Call Closing (0-10 pts)
+• Summary of arrangements
+• Farewell
+• Confirming no additional questions
+
+1c. Security Protocols (0-10 pts)
+• Customer verification
+• Procedure compliance
+• Data protection
+
+1d. Formal Requirements (0-10 pts)
+• GDPR consents
+• Call documentation
+• Legal requirements
+
+SERVICE EFFECTIVENESS (30 points)
+2a. Problem Diagnosis (0-10 pts)
+• Active listening
+• Appropriate diagnostic questions
+• Understanding needs
+
+2b. Solution Quality (0-10 pts)
+• Proposal relevance
+• Action effectiveness
+• Alternative options
+
+2c. Information Completeness (0-10 pts)
+• Explanation accuracy
+• Understanding verification
+• Process transparency
+
+SOFT SKILLS (30 points)
+3a. Emotion Management (0-10 pts)
+• Frustration handling
+• Tension de-escalation
+• Self-emotion control
+
+3b. Empathy (0-10 pts)
+• Understanding customer perspective
+• Communication adaptation
+• Active support demonstration
+
+3c. Communication Professionalism (0-10 pts)
+• Language and tone of voice
+• Speech structure
+• Customer adaptation
+
+SALES POTENTIAL (30 points)
+4a. Opportunity Recognition (0-10 pts)
+• Need identification
+• Potential analysis
+• Proposal timing
+
+4b. Offer Alignment (0-10 pts)
+• Product relevance
+• Benefit argumentation
+• Proposal personalization
+
+4c. Sales Process (0-10 pts)
+• Sales techniques
+• Objection handling
+• Closing
+
+EVALUATION METHODOLOGY:
+For each element:
+
+Score (0-10)
+Specific score justification
+Improvement suggestions
+Examples of correct behaviors
+SUMMARY:
+
+Total score (max 130 pts)
+Percentage score
+Key observations
+TOP 3 development priorities
+Response Format:
+• Use headers and bullet points
+• Maintain clear structure
+• Provide specific examples
+• Highlight both strengths and areas for improvement

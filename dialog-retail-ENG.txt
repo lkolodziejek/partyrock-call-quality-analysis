@@ -1,0 +1,43 @@
+Agent: Good morning, this is Sarah from ElectroMarket customer service, how can I help you?
+
+Customer: Hello, I'm calling about a phone I bought from you two weeks ago. The screen has stopped working.
+
+Agent: I'm very sorry to hear that. Could you please provide your order number? You'll find it in your purchase confirmation email.
+
+Customer: Yes, just a moment... It's EM2025/468734.
+
+Agent: Thank you. I can see your order for the SuperPhone GX2024. Could you describe exactly what's happening with the screen?
+
+Customer: Well, last night the screen started showing strange lines, and this morning it completely went black. The phone is working because I can hear sounds, but I can't see anything.
+
+Agent: I understand, I'm very sorry about this situation. We'll certainly process your warranty claim - you have two options. We can have a courier pick up the phone free of charge and send it for repair, or you can opt for an express replacement with a new device, but this requires a security deposit that will be refunded once we receive the faulty phone.
+
+Customer: How long would the repair take?
+
+Agent: The standard processing time is 14 days, but it usually takes less, around 7-10 days. With express replacement, you'll receive the new phone the next business day.
+
+Customer: Hmm, I urgently need the phone for work. How much is the security deposit for the replacement?
+
+Agent: The deposit equals the phone's value - $1,799. It will be held on your card and released as soon as the courier collects the damaged phone. The funds should return to your account within 2-3 business days maximum.
+
+Customer: Alright, I'll go with the express replacement.
+
+Agent: Perfect, I'll prepare everything. Let me just confirm if the delivery address is the same as in your original order - [reads address]?
+
+Customer: Yes, that's correct.
+
+Agent: Good. I'll now send you an email confirming your warranty claim and a link to pay the security deposit. Once the deposit is processed, I'll immediately arrange the shipment. The courier will bring the new phone and collect the damaged one during the same visit. Please pack the phone in its original box if you still have it.
+
+Customer: I understand, but what about the data on the phone?
+
+Agent: If you have cloud backup enabled, all your data should automatically restore to the new phone once you sign in. If not, unfortunately, it will be difficult to recover with a non-working screen.
+
+Customer: OK, I have cloud backup, so that should be fine.
+
+Agent: Excellent. Do you have any other questions about the replacement process?
+
+Customer: No, I think everything's clear.
+
+Agent: In that case, please check your email - you should have received my message by now. If you have any concerns, don't hesitate to call us. Have a nice day!
+
+Customer: Thank you, goodbye.
